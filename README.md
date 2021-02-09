@@ -1,7 +1,16 @@
-### Hi there <img src="assets/wave.gif" width="50"/>
+### Hey there 😄 <img src="assets/wave.gif" width="50"/>
 
-<a href="https://www.linkedin.com/in/rokin"><img src="assets/linkedin.svg" width="40" /></a>
-<a href="https://medium.com/@rokinmaharjan"><img src="assets/medium.svg" width="40" /></a>
+<a href="https://www.linkedin.com/in/rokin">
+  <img src="assets/linkedin.svg" width="35"/>
+</a>
+
+<a href="https://medium.com/@rokinmaharjan">
+  <img src="assets/medium.svg" width="35" />
+</a>
+
+<br/>
+
+![](https://visitor-badge.glitch.me/badge?page_id=rokinmaharjan)
 
 
 <!--
