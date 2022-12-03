@@ -1,4 +1,4 @@
-### Hey there 😄 <img src="assets/wave.gif" width="50"/>
+### Hey there 👋 <img src="assets/wave.gif" width="50"/>
 
 <a href="https://www.linkedin.com/in/rokin">
   <img src="assets/linkedin.svg" width="35"/>
